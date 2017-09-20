@@ -6,6 +6,10 @@ You can see a preview of this app in action in the following video preview:
 
 https://www.youtube.com/watch?v=TrUYrE16mEY&t=9s
 
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=TrUYrE16mEY&t=9s)]
+
+
+
 
 **About the project**
 
